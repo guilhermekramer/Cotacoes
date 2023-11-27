@@ -1,6 +1,6 @@
 # cotacoes
 
-A new Flutter project.
+Um estudo utilizando flutter desenvolvendo um aplicativo monitor de bolsa de valores
 
 ## Getting Started
 
